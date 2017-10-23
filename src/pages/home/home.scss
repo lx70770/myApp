@@ -14,12 +14,16 @@ page-home {
     line-height:height;
     vertical-align: middle;
     text-align:center;
-    border:1px solid red;
+  }
+  .section2 .sec2-mar{
+    width: 250px;
+    height: 40px;
+    line-height: 40px;
+    margin: 0 auto;
   }
   .section4 {
     height: 50%;
     width:100%;
-    border:1px solid black;
   }
 
   span {
